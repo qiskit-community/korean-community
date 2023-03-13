@@ -13,3 +13,5 @@
   - QPE 및 QPE 활용하여 Pi 계산하기/ Qiskit Runtime 소개 등 
 
 - 신청마감: 2023년 3월 7일
+
+[파이데이_포스터_230223_v2.1 (1).pdf](https://github.com/qiskit-community/korean-community/files/10953036/_._230223_v2.1.1.pdf)
