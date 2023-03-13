@@ -14,4 +14,4 @@
 
 - 신청마감: 2023년 3월 7일
 
-[파이데이_포스터_230223_v2.1 (1).pdf](https://github.com/qiskit-community/korean-community/files/10953036/_._230223_v2.1.1.pdf)
+<img width="521" alt="Screenshot 2023-03-13 at 11 44 26 AM" src="https://user-images.githubusercontent.com/63990199/224596488-56c7cfdc-3e0c-4f69-b7a3-b2278f234f8e.png">
