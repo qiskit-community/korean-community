@@ -13,8 +13,8 @@
 
 - 내      용: 
 	- Qiskit updates and news
-	- 양자 순간이동의 소개 및 Qiskit hands-on
-	- Dynamic circuits
-	- Quantifying coherence of quantum measurement with Protoptype
+	- [양자 순간이동의 소개 및 Qiskit hands-on](https://github.com/geekCYS/2023-Qiskit-User-MeetUp/tree/main) , 고려대학교 [정유신](@geekCYS)
+	- Dynamic circuits, IBM Quantum Vishal Bajpe
+	- Quantifying coherence of quantum measurement with Protoptype, ETRI [백경현](@KH-Baek)
 
 <img src="img/SUOGnQPnOdtkSwhSwqHW.jpg">
