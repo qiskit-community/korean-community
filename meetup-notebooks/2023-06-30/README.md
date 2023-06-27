@@ -17,5 +17,4 @@
 	- Dynamic circuits
 	- Quantifying coherence of quantum measurement with Protoptype
 
-
-[poster](img/SUOGnQPnOdtkSwhSwqHW.jpg)
+<img src="img/SUOGnQPnOdtkSwhSwqHW.jpg">
