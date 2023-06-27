@@ -18,4 +18,4 @@
 	- Quantifying coherence of quantum measurement with Protoptype
 
 
-<img width="521" alt="https://iqit.yonsei.ac.kr/_res/editor_image/2023/06/SUOGnQPnOdtkSwhSwqHW.jpg">
+<img width="521" alt="img/SUOGnQPnOdtkSwhSwqHW.jpg">
