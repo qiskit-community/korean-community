@@ -1,4 +1,6 @@
-
+.vscode
+.DS_Store
+*/.ipynb_checkpoints/*
 meetup-notebooks/2023-06-30/IBM Quantum Spring Challenge Walkthrough/Notebooks/Labs-en/.ipynb_checkpoints/lab1-checkpoint.ipynb
 meetup-notebooks/2023-06-30/IBM Quantum Spring Challenge Walkthrough/Notebooks/Labs-en/.ipynb_checkpoints/lab2-checkpoint.ipynb
 meetup-notebooks/2023-06-30/IBM Quantum Spring Challenge Walkthrough/Notebooks/Labs-en/.ipynb_checkpoints/lab3-checkpoint.ipynb
