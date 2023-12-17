@@ -7,12 +7,12 @@
 
 Day 1
   - 선형대수와 확률적 이론 - 박시헌
-  - 양자 역학 및 양자 정보 처리 with [Badging Quiz](https://learning.quantum.ibm.com/course/basics-of-quantum-information/exam) - 박시헌
-  - 양자 상태 맞추기 방탈출 게임 by using multi-playable [QiskitBlocks](https://github.com/JavaFXpert/QiskitBlocks), (Game Server Setting:강다영)
+  - 양자 역학 및 양자 정보 처리 - 박시헌
+  - [Badging Quiz](https://learning.quantum.ibm.com/course/basics-of-quantum-information/exam)
 
 Day 2
   - Coding Practice ([Qiskit Developer Certicifation Prep Guide](https://github.com/QuantumComputingKorea/Qiskit-Dev-Cert-lectures), [Qiskit Pocket Guide](https://github.com/qiskit-community/qiskit-pocket-guide/tree/main), [Qiskit API Docs](https://docs.quantum.ibm.com/api/qiskit) - 신소영
-  - Small Challenge
+  - 양자 상태 맞추기 방탈출 게임 by using multi-playable [QiskitBlocks](https://github.com/JavaFXpert/QiskitBlocks) (Game Server Setting: 강다영)
 
 Day 3
   - Coding Practice ([Qiskit Developer Certicifation Prep Guide](https://github.com/QuantumComputingKorea/Qiskit-Dev-Cert-lectures), [Qiskit Pocket Guide](https://github.com/qiskit-community/qiskit-pocket-guide/tree/main), [Qiskit API Docs](https://docs.quantum.ibm.com/api/qiskit) - 신소영
