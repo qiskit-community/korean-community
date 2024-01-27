@@ -36,5 +36,5 @@ Lec 27. [이온트랩 기반 양자 컴퓨터 개요, 이온의 포획 및 양�
 Lec 28. [이온트랩 양자컴퓨터에서 2-qubit 게이트 구현, 2개 이온 qubit 사이 양자얽힘 발생 및 양자 중계기, 얽힘 광자쌍 생성](https://www.youtube.com/watch?v=d5umTIELoiA&list=PLv_H0-ClHq6y57O2K6WerynmOVJTkCSq_&index=29)  
 
 
-
+  
 출처: QuIQCL at SNU from YouTube
