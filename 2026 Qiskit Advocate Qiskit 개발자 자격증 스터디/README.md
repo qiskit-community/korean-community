@@ -7,10 +7,10 @@
 | 이름 | GitHub | 역할 |
 |------|--------|------|
 | 박민준 | [@minjoon-park](https://github.com/minjoon-park) | Advocate |
-| 이권학 | [@snow0369](https://github.com/snow0369) | study co-lead |
+| 👑 이권학 | [@snow0369](https://github.com/snow0369) | study co-lead |
 | 김보성 | [@BStar14](https://github.com/BStar14) | Advocate |
 | 신소영 | [@0sophy1](https://github.com/0sophy1) | Advocate |
-| 조정빈 | [@dolf3131](https://github.com/dolf3131) | study co-lead |
+| 👑 조정빈 | [@dolf3131](https://github.com/dolf3131) | study co-lead |
 | 최인호 | [@q-inho](https://github.com/q-inho) | study advisor |
 
 ## 자격증 개요
