@@ -66,6 +66,18 @@
 | `1_Demonstrate_Execution_Modes.ipynb` |  | 실행 모두 |
 | `2_Demonstrate_Circuit_Running_RealHW.ipynb` |  | 실제 양자 하드웨어에 회로 실행하기 실습 |
 
+## 4주차
+
+📅 **2025년 4월 15일 (수) 오전 11:00**  
+📂 [Section 5: Use Sampler Primitive](https://github.com/kibrahim757/qiskit_2x_certification_exam_tutorial/tree/main/Section_5_Use_Sampler_Primitive)와 [Section 6: Use Estimator Primitive](https://github.com/kibrahim757/qiskit_2x_certification_exam_tutorial/tree/main/Section_6_Use_Estimator_Primitive)
+
+| 노트북 | 발표자 | 주제 |
+|--------|--------|------|
+| `1_Set_Sampler_options.ipynb` |  | 양자회로 트렌스파일 |
+| `2_Understand_Sampler_Theory.ipynb` |  | 양자 회로 구성하기 |
+| `1_Set_Estimator_Options.ipynb` |  | 실행 모두 |
+| `2_Understand_Estimator_Theory.ipynb` |  | 실제 양자 하드웨어에 회로 실행하기 실습 |
+
 ## 스터디 진행 방식
 
 ### 주간 루틴
