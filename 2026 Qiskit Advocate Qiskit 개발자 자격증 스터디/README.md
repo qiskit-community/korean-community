@@ -41,6 +41,19 @@
 | `2_3_Quantum_Operations_FeatureMaps.ipynb` | 신소영 | 양자 연산과 Feature Map |
 | `2_4_Circuit_Mechanics.ipynb` | 조정빈 | 회로 구성 및 조작 심화 |
 
+## 2주차
+
+📅 **2025년 4월 1일 (수) 오전 11:00**  
+📂 [Section 2: Visualize Quantum Circuits](https://github.com/kibrahim757/qiskit_2x_certification_exam_tutorial/tree/main/Section_2_Visualize_Quantum_Circuits)와 [Section 3: Create Quantum Circuits](https://github.com/kibrahim757/qiskit_2x_certification_exam_tutorial/tree/main/Section_2_Visualize_Quantum_Circuits) 앞부분
+
+| 노트북 | 발표자 | 주제 |
+|--------|--------|------|
+| `1_Visualize_Quantum_Circuits.ipynb` |  | 양자 회로 그려보기 |
+| `2_Visualize_Quantum_Measurments.ipynb` |  | 양자 측정 그려보기 |
+| `3_ Visualize_Quantum_States.ipynb` |  | 양자 상태 그려보기 |
+| `1_Construct_Dynamic_Circuits.ipynb` |  | Dynamic Circuit 구성하기 |
+| `2_Construct_Parameterized_Circuits.ipynb` |  | Parameterized Circuit 구성하기 |
+
 ## 스터디 진행 방식
 
 ### 주간 루틴
