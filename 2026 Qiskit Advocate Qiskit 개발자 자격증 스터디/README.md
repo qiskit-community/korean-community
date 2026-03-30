@@ -45,7 +45,7 @@
 ## 2주차
 
 📅 **2025년 4월 1일 (수) 오전 11:00**  
-📂 [Section 2: Visualize Quantum Circuits](https://github.com/kibrahim757/qiskit_2x_certification_exam_tutorial/tree/main/Section_2_Visualize_Quantum_Circuits)와 [Section 3: Create Quantum Circuits](https://github.com/kibrahim757/qiskit_2x_certification_exam_tutorial/tree/main/Section_2_Visualize_Quantum_Circuits) 앞부분
+📂 [Section 2: Visualize Quantum Circuits](https://github.com/kibrahim757/qiskit_2x_certification_exam_tutorial/tree/main/Section_2_Visualize_Quantum_Circuits)와 [Section 3: Create Quantum Circuits](https://github.com/kibrahim757/qiskit_2x_certification_exam_tutorial/tree/main/Section_3_Create_Quantum_Circuits) 앞부분
 
 | 노트북 | 발표자 | 주제 |
 |--------|--------|------|
@@ -53,12 +53,12 @@
 | `2_Visualize_Quantum_Measurments.ipynb` |  | 양자 측정 그려보기 |
 | `3_ Visualize_Quantum_States.ipynb` |  | 양자 상태 그려보기 |
 | `1_Construct_Dynamic_Circuits.ipynb` |  | Dynamic Circuit 구성하기 |
-| `2_Construct_Parameterized_Circuits.ipynb` |  | Parameterized Circuit 구성하기 |
+| `2_Construct_Parameterized_Circuits.ipynb` | 신소영 | Parameterized Circuit 구성하기 |
 
 ## 3주차
 
 📅 **2025년 4월 8일 (수) 오전 11:00**  
-📂 [Section 3: Create Quantum Circuits](https://github.com/kibrahim757/qiskit_2x_certification_exam_tutorial/tree/main/Section_2_Visualize_Quantum_Circuits) 뒷부분과 [Section 4: Run Quantum Circuits](https://github.com/kibrahim757/qiskit_2x_certification_exam_tutorial/tree/main/Section_4_Run_Quantum_Circuits)
+📂 [Section 3: Create Quantum Circuits](https://github.com/kibrahim757/qiskit_2x_certification_exam_tutorial/tree/main/Section_3_Create_Quantum_Circuits) 뒷부분과 [Section 4: Run Quantum Circuits](https://github.com/kibrahim757/qiskit_2x_certification_exam_tutorial/tree/main/Section_4_Run_Quantum_Circuits)
 
 | 노트북 | 발표자 | 주제 |
 |--------|--------|------|
