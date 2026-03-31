@@ -50,9 +50,9 @@
 | 노트북 | 발표자 | 주제 |
 |--------|--------|------|
 | `1_Visualize_Quantum_Circuits.ipynb` | 조정빈 | 양자 회로 그려보기 |
-| `2_Visualize_Quantum_Measurments.ipynb` |  | 양자 측정 그려보기 |
+| `2_Visualize_Quantum_Measurments.ipynb` | 이권학 | 양자 측정 그려보기 |
 | `3_ Visualize_Quantum_States.ipynb` |  | 양자 상태 그려보기 |
-| `1_Construct_Dynamic_Circuits.ipynb` |  | Dynamic Circuit 구성하기 |
+| `1_Construct_Dynamic_Circuits.ipynb` | 박민준 | Dynamic Circuit 구성하기 |
 | `2_Construct_Parameterized_Circuits.ipynb` | 신소영 | Parameterized Circuit 구성하기 |
 
 ## 3주차
