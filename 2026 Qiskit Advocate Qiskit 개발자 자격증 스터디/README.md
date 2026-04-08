@@ -86,11 +86,11 @@
 
 | 노트북 | 발표자 | 주제 |
 |--------|--------|------|
-| `1_Retrieve_Experiment_Results.ipynb` |  | Sampler 옵션 설정하기 |
-| `2_Monitor_Jobs.ipynb` |  | Sampler 이론 |
-| `1_Structure_Types_QASM.ipynb` |  | Estimator 옵션 설정하기 |
-| `2_and_3_Interoperate_QASM_QISKIT.ipynb` |  | Estimator 이론 |
-| `4_Use_Qiskit_REST_API.ipynb` |  | Estimator 이론 |
+| `1_Retrieve_Experiment_Results.ipynb` |  | 실험 결과 가져오기 |
+| `2_Monitor_Jobs.ipynb` |  | 작업 관리하기 |
+| `1_Structure_Types_QASM.ipynb` |  | QASM 구조 및 타입 |
+| `2_and_3_Interoperate_QASM_QISKIT.ipynb` |  | QASM-Qiskit 함께 사용하기 |
+| `4_Use_Qiskit_REST_API.ipynb` |  | Qiskit REST API 활용하기 |
 
 
 ## 스터디 진행 방식
