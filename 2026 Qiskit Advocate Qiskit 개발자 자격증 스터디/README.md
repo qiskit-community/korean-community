@@ -62,10 +62,10 @@
 
 | 노트북 | 발표자 | 주제 |
 |--------|--------|------|
-| `3_Transpile_Circuits.ipynb` |  | 양자회로 트렌스파일 |
-| `4_Construct_Quantum_Circuits.ipynb` |  | 양자 회로 구성하기 |
-| `1_Demonstrate_Execution_Modes.ipynb` |  | 실행 모두 |
-| `2_Demonstrate_Circuit_Running_RealHW.ipynb` |  | 실제 양자 하드웨어에 회로 실행하기 실습 |
+| `3_Transpile_Circuits.ipynb` | 이권학 | 양자회로 트렌스파일 |
+| `4_Construct_Quantum_Circuits.ipynb` | 박민준 | 양자 회로 구성하기 |
+| `1_Demonstrate_Execution_Modes.ipynb` | 조정빈 | 실행 모두 |
+| `2_Demonstrate_Circuit_Running_RealHW.ipynb` | 이권학 | 실제 양자 하드웨어에 회로 실행하기 실습 |
 
 ## 4주차
 
@@ -74,10 +74,26 @@
 
 | 노트북 | 발표자 | 주제 |
 |--------|--------|------|
-| `1_Set_Sampler_options.ipynb` |  | 양자회로 트렌스파일 |
-| `2_Understand_Sampler_Theory.ipynb` |  | 양자 회로 구성하기 |
-| `1_Set_Estimator_Options.ipynb` |  | 실행 모두 |
-| `2_Understand_Estimator_Theory.ipynb` |  | 실제 양자 하드웨어에 회로 실행하기 실습 |
+| `1_Set_Sampler_options.ipynb` | 조정빈 | Sampler 옵션 설정 |
+| `2_Understand_Sampler_Theory.ipynb` | 이권학 | Sampler 이론 |
+| `1_Set_Estimator_Options.ipynb` |  | Estimator 옵션 설정 |
+| `2_Understand_Estimator_Theory.ipynb` | 박민준 | Estimator 이론 |
+
+## 5주차
+
+📅 2025년 4월 12일 (수) 오전 11:00
+📂 [Section 7: Retrieve Analyze Results](https://github.com/kibrahim757/qiskit_2x_certification_exam_tutorial/tree/main/Section_7_Retrieve_Analyze_Results)와 [Section 8: Operate WITH OpenQASM](https://github.com/kibrahim757/qiskit_2x_certification_exam_tutorial/tree/main/Section_8_Operate_WITH_OpenQASM)
+
+| 노트북 | 발표자 | 주제 |
+|--------|--------|------|
+| `1_Retrieve_Experiment_Results.ipynb` |  |  |
+| `2_Monitor_Jobs.ipynb` |  |  |
+| `1_Set_Estimator_Options.ipynb` |  |  |
+| `2_and_3_Interoperate_QASM_QISKIT.ipynb` |  |  |
+| `4_Use_Qiskit_REST_API.ipynb` |  |  |
+
+
+
 
 ## 스터디 진행 방식
 
