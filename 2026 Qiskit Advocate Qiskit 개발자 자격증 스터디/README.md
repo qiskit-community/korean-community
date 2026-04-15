@@ -74,23 +74,25 @@
 
 | 노트북 | 발표자 | 주제 |
 |--------|--------|------|
-| `1_Set_Sampler_options.ipynb` |  | Sampler 옵션 설정하기 |
-| `2_Understand_Sampler_Theory.ipynb` |  | Sampler 이론 |
-| `1_Set_Estimator_Options.ipynb` |  | Estimator 옵션 설정하기 |
-| `2_Understand_Estimator_Theory.ipynb` |  | Estimator 이론 |
+| `1_Set_Sampler_options.ipynb` | 조정빈 | Sampler 옵션 설정 |
+| `2_Understand_Sampler_Theory.ipynb` | 이권학 | Sampler 이론 |
+| `1_Set_Estimator_Options.ipynb` |  | Estimator 옵션 설정 |
+| `2_Understand_Estimator_Theory.ipynb` | 박민준 | Estimator 이론 |
 
 ## 5주차
 
-📅 **2025년 4월 22일 (수) 오전 11:00**  
-📂 [Section 7: Retrieve Analysis Results](https://github.com/kibrahim757/qiskit_2x_certification_exam_tutorial/tree/main/Section_7_Retrieve_Analyze_Results)와 [Section 8: Operate with OpenQASM](https://github.com/kibrahim757/qiskit_2x_certification_exam_tutorial/tree/main/Section_8_Operate_WITH_OpenQASM)
+📅 2025년 4월 12일 (수) 오전 11:00
+📂 [Section 7: Retrieve Analyze Results](https://github.com/kibrahim757/qiskit_2x_certification_exam_tutorial/tree/main/Section_7_Retrieve_Analyze_Results)와 [Section 8: Operate WITH OpenQASM](https://github.com/kibrahim757/qiskit_2x_certification_exam_tutorial/tree/main/Section_8_Operate_WITH_OpenQASM)
 
 | 노트북 | 발표자 | 주제 |
 |--------|--------|------|
-| `1_Retrieve_Experiment_Results.ipynb` |  | 실험 결과 가져오기 |
-| `2_Monitor_Jobs.ipynb` |  | 작업 관리하기 |
-| `1_Structure_Types_QASM.ipynb` |  | QASM 구조 및 타입 |
-| `2_and_3_Interoperate_QASM_QISKIT.ipynb` |  | QASM-Qiskit 함께 사용하기 |
-| `4_Use_Qiskit_REST_API.ipynb` |  | Qiskit REST API 활용하기 |
+| `1_Retrieve_Experiment_Results.ipynb` |  |  |
+| `2_Monitor_Jobs.ipynb` |  |  |
+| `1_Set_Estimator_Options.ipynb` |  |  |
+| `2_and_3_Interoperate_QASM_QISKIT.ipynb` |  |  |
+| `4_Use_Qiskit_REST_API.ipynb` |  |  |
+
+
 
 
 ## 스터디 진행 방식
