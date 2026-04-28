@@ -76,7 +76,7 @@
 |--------|--------|------|
 | `1_Set_Sampler_options.ipynb` | 조정빈 | Sampler 옵션 설정 |
 | `2_Understand_Sampler_Theory.ipynb` | 이권학 | Sampler 이론 |
-| `1_Set_Estimator_Options.ipynb` |  | Estimator 옵션 설정 |
+| `1_Set_Estimator_Options.ipynb` | 김보성 | Estimator 옵션 설정 |
 | `2_Understand_Estimator_Theory.ipynb` | 박민준 | Estimator 이론 |
 
 ## 5주차
@@ -86,11 +86,11 @@
 
 | 노트북 | 발표자 | 주제 |
 |--------|--------|------|
-| `1_Retrieve_Experiment_Results.ipynb` |  |  |
-| `2_Monitor_Jobs.ipynb` |  |  |
-| `1_Structure_Types_QASM.ipynb` |  |  |
-| `2_and_3_Interoperate_QASM_QISKIT.ipynb` |  |  |
-| `4_Use_Qiskit_REST_API.ipynb` |  |  |
+| `1_Retrieve_Experiment_Results.ipynb` | 이권학 | 백엔드 실행 결과 가져오기 |
+| `2_Monitor_Jobs.ipynb` | 조정민 | 잡 상태 모니터링 |
+| `1_Structure_Types_QASM.ipynb` | 신소영 | QASM의 구조 타입들 |
+| `2_and_3_Interoperate_QASM_QISKIT.ipynb` | 박민준 | QASM_Qiskit 사이 동작 |
+| `4_Use_Qiskit_REST_API.ipynb` | 김보성 | Qiskit_REST_API 사용 |
 
 
 
