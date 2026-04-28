@@ -88,7 +88,7 @@
 |--------|--------|------|
 | `1_Retrieve_Experiment_Results.ipynb` |  |  |
 | `2_Monitor_Jobs.ipynb` |  |  |
-| `1_Set_Estimator_Options.ipynb` |  |  |
+| `1_Structure_Types_QASM.ipynb` |  |  |
 | `2_and_3_Interoperate_QASM_QISKIT.ipynb` |  |  |
 | `4_Use_Qiskit_REST_API.ipynb` |  |  |
 
